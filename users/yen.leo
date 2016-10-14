@@ -22,39 +22,39 @@
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="amd.20151216151325.1"><vh>@@edit index.html</vh></v>
 <v t="leo.20161014112219.1"><vh>@clean index.html</vh>
-<v t="leo.20161014112219.2" a="E"><vh>html</vh>
+<v t="leo.20161014112219.2"><vh>html</vh>
 <v t="leo.20161014112219.3"><vh>head</vh></v>
-<v t="leo.20161014112219.4" a="E"><vh>body</vh>
-<v t="leo.20161014112219.5" a="E"><vh>reveal div</vh>
-<v t="leo.20161014112219.6" a="E"><vh>slides div</vh>
+<v t="leo.20161014112219.4"><vh>body</vh>
+<v t="leo.20161014112219.5"><vh>reveal div</vh>
+<v t="leo.20161014112219.6"><vh>slides div</vh>
 <v t="leo.20161014112219.7"><vh>封面投影片</vh>
 <v t="leo.20161014112219.8"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20161014112219.9"><vh>三大主題教學</vh>
-<v t="leo.20161014112219.10" a="E"><vh>主題教學</vh>
+<v t="leo.20161014112219.10"><vh>主題教學</vh>
 <v t="leo.20161014112219.11"><vh>電腦輔助設計在教什麼?</vh></v>
 </v>
-<v t="leo.20161014112219.12" a="E"><vh>主題教學內容</vh>
+<v t="leo.20161014112219.12"><vh>主題教學內容</vh>
 <v t="leo.20161014112219.13"><vh>電腦輔助設計在教什麼?</vh></v>
 </v>
-<v t="leo.20161014112219.14" a="E"><vh>相關課程</vh>
+<v t="leo.20161014112219.14"><vh>相關課程</vh>
 <v t="leo.20161014112219.15"><vh>電腦輔助設計系列課程</vh></v>
 </v>
-<v t="leo.20161014112219.16" a="E"><vh>創造力</vh>
+<v t="leo.20161014112219.16"><vh>創造力</vh>
 <v t="leo.20161014112219.17"><vh>何謂創造力?</vh></v>
 </v>
-<v t="leo.20161014112219.18" a="E"><vh>創造力</vh>
+<v t="leo.20161014112219.18"><vh>創造力</vh>
 <v t="leo.20161014112219.19"><vh>何謂創造力?</vh></v>
 </v>
-<v t="leo.20161014112219.20" a="E"><vh>所謂自學</vh>
+<v t="leo.20161014112219.20"><vh>所謂自學</vh>
 <v t="leo.20161014112219.21"><vh>自學的訓練</vh></v>
 </v>
-<v t="leo.20161014112219.22" a="E"><vh>執行力</vh>
+<v t="leo.20161014112219.22"><vh>執行力</vh>
 <v t="leo.20161014112219.23"><vh>高效執行力</vh></v>
 </v>
 </v>
 <v t="leo.20161014112219.24"><vh>電腦輔助設計課程內涵</vh>
-<v t="leo.20161014112219.25" a="E"><vh>電腦輔助設計課程內涵</vh>
+<v t="leo.20161014112219.25"><vh>電腦輔助設計課程內涵</vh>
 <v t="leo.20161014112219.26"><vh>CAD 教學主題</vh></v>
 </v>
 <v t="leo.20161014112219.27"><vh>Github pages 網頁</vh>
@@ -73,19 +73,19 @@
 <v t="leo.20161014112219.36"><vh>Flask 網際程式</vh></v>
 </v>
 </v>
-<v t="leo.20161014112219.37" a="E"><vh>Windows 環境下可攜環境</vh>
-<v t="leo.20161014112219.38" a="E"><vh>下載 miniconda 可攜環境</vh>
+<v t="leo.20161014112219.37"><vh>Windows 環境下可攜環境</vh>
+<v t="leo.20161014112219.38"><vh>下載 miniconda 可攜環境</vh>
 <v t="leo.20161014112219.39"><vh>下載可攜程式環境</vh></v>
 </v>
 </v>
 <v t="leo.20161014112219.40"><vh>各式內容引用範例</vh>
-<v t="leo.20161014112219.41" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20161014112219.41"><vh>導入數學符號與方程式</vh>
 <v t="leo.20161014112219.42"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20161014112219.43" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20161014112219.43"><vh>導入縮排程式碼</vh>
 <v t="leo.20161014112219.44"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20161014112219.45" a="E"><vh>導入影片</vh>
+<v t="leo.20161014112219.45"><vh>導入影片</vh>
 <v t="leo.20161014112219.46"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -102,12 +102,12 @@
 <v t="leo.20151212173725.1"><vh>@edit pelicanconf.py</vh></v>
 <v t="amd.20151215170221.1"><vh>以下 local_publishconf.py 為近端所使用的設定</vh></v>
 <v t="leo.20151213085752.1"><vh>@edit local_publishconf.py</vh></v>
-<v t="amd.20151215121740.1"><vh>@path theme</vh>
+<v t="amd.20151215121740.1" a="E"><vh>@path theme</vh>
 <v t="amd.20151215154950.1" a="E"><vh>@path pelican-bootstrap3_local</vh>
 <v t="amd.20151215154950.2" a="E"><vh>@path templates</vh>
 <v t="amd.20151215154950.3"><vh>@edit base.html</vh></v>
 <v t="amd.20151215154950.4"><vh>@edit search.html</vh></v>
-<v t="amd.20151215162536.1" a="E"><vh>@path includes</vh>
+<v t="amd.20151215162536.1"><vh>@path includes</vh>
 <v t="amd.20151215162510.1"><vh>@edit sidebar.html</vh></v>
 </v>
 <v t="amd.20151215154950.5"><vh>@edit tags.html</vh></v>
@@ -116,7 +116,7 @@
 </v>
 <v t="amd.20151215170326.1"><vh>以下在修改或查驗 plugin 目錄下的檔案</vh></v>
 <v t="amd.20151215154225.1"><vh>@path plugin</vh>
-<v t="amd.20151215154238.1" a="E"><vh>@path tipue_search</vh>
+<v t="amd.20151215154238.1"><vh>@path tipue_search</vh>
 <v t="amd.20151215154248.1"><vh>@edit tipue_search.py</vh></v>
 </v>
 </v>
@@ -125,15 +125,15 @@
 </v>
 <v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
-<v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
-<v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
-<v t="amd.20160727114506.1" a="E"><vh>201609</vh>
+<v t="amd.20151215170031.1"><vh>@path ./../content</vh>
+<v t="amd.20160106093454.1"><vh>yen 所寫的網誌文章</vh>
+<v t="amd.20160727114506.1"><vh>201609</vh>
 <v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
-<v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
+<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094829.1"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
