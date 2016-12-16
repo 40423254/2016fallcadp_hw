@@ -1,71 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423254-2016fallcadp_hw</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-09-02T12:00:00+08:00</updated><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2016-09-02:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423254 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-09-16T12:00:00+08:00</updated><entry><title>2016Fall Week1</title><link href="./2016fall-week1.html" rel="alternate"></link><published>2016-09-16T12:00:00+08:00</published><updated>2016-09-16T12:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2016-09-16:./2016fall-week1.html</id><summary type="html">&lt;h2&gt;中秋連假&lt;/h2&gt;
 
+&lt;p&gt;切換到2016fallcadp_hw的分支&lt;/p&gt;
 
-&lt;p&gt;網誌 Category&lt;/p&gt;
-&lt;p&gt;網誌 Tags&lt;/p&gt;
-&lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2016-09-02:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/188237375" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;pre&gt;cd &lt;u&gt;分支名稱&lt;/u&gt;
+(例如:cd 2016fallcadp_hw)&lt;/pre&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/188237375"&gt;40423254-01-cadpb&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;回到上一個分支&lt;/p&gt;
 
+&lt;pre&gt;cd ..&lt;/pre&gt;
 
+&lt;p&gt;會新建一個40423254的資料夾,並把遠端資料存在裡面&lt;/p&gt;
 
-&lt;p&gt;網誌 Category&lt;/p&gt;
-&lt;p&gt;網誌 Tags&lt;/p&gt;
-&lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2016-09-02:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/188239749" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;pre&gt;git clone &lt;u&gt;倉儲網址&lt;/u&gt; &lt;u&gt;分支名稱&lt;/u&gt;
+(例如:git clone https://github.com/40423254/2016fallcadp_hw.git )&lt;/pre&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/188239749"&gt;40423254-02-cadpb&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;檢查分支&lt;/p&gt;
 
+&lt;pre&gt;git branch&lt;/pre&gt;
 
+&lt;p&gt;建立一個gh-pages名稱的分支&lt;/p&gt;
 
-&lt;p&gt;網誌 Category&lt;/p&gt;
-&lt;p&gt;網誌 Tags&lt;/p&gt;
-&lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2016-09-02:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/188237375" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;pre&gt;git branch &lt;u&gt;分支名稱&lt;/u&gt;
+(例如:git branch gh-pages)&lt;/pre&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/188237375"&gt;40423254-01-cadpb&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;切換到指定的gh-pages分支&lt;/p&gt;
 
+&lt;pre&gt;git checkout &lt;u&gt;分支名稱&lt;/u&gt;
+(例如:git checkout gh-pages)&lt;/pre&gt;
 
+&lt;pre&gt;git add -A&lt;/pre&gt;
 
-&lt;p&gt;網誌 Category&lt;/p&gt;
-&lt;p&gt;網誌 Tags&lt;/p&gt;
-&lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2016-09-02:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/188239749" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;pre&gt;git commit -m"&lt;u&gt;改版內容&lt;/u&gt;"
+(例如:git commit -m"add all")&lt;/pre&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/188239749"&gt;40423254-02-cadpb&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;推送進端資料到遠端,並且指定推送到gh-pages的分支&lt;/p&gt;
 
+&lt;pre&gt;git push origin &lt;u&gt;分支名稱&lt;/u&gt;
+(例如:git push origin gh-pages)&lt;/pre&gt;
 
+&lt;pre&gt;git pull&lt;/pre&gt;
 
-&lt;p&gt;網誌 Category&lt;/p&gt;
-&lt;p&gt;網誌 Tags&lt;/p&gt;
-&lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2016-09-02:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
+&lt;p&gt;收尋該檔案名稱,並逐一確認是否刪除&lt;/p&gt;
 
+&lt;pre&gt;git rm &lt;u&gt;檔案名稱&lt;/u&gt;&lt;/pre&gt;
 
-&lt;p&gt;網誌 Category&lt;/p&gt;
-&lt;p&gt;網誌 Tags&lt;/p&gt;
-&lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2016-09-02:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/188239749" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;回到之前072e3af的版本資料&lt;/p&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/188239749"&gt;40423254-02-cadpb&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;pre&gt;git reset --hard &lt;u&gt;版本代碼&lt;/u&gt;
+(例如:git reset --hard 072e3af)&lt;/pre&gt;
 
+&lt;p&gt;直接刪除所有該檔案名稱的檔案&lt;/p&gt;
 
-
-&lt;p&gt;網誌 Category&lt;/p&gt;
-&lt;p&gt;網誌 Tags&lt;/p&gt;
-&lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2016-09-02:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
-
-
-&lt;p&gt;網誌 Category&lt;/p&gt;
-&lt;p&gt;網誌 Tags&lt;/p&gt;
-&lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry><entry><title>2016Fall 簡報與網誌系統</title><link href="./2016fall-jian-bao-yu-wang-zhi-xi-tong.html" rel="alternate"></link><published>2016-09-02T12:00:00+08:00</published><updated>2016-09-02T12:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2016-09-02:./2016fall-jian-bao-yu-wang-zhi-xi-tong.html</id><summary type="html">&lt;p&gt;這個系統共集結了 reveal.js 網際簡報與 pelican 靜態網誌系統.&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/188237375" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://vimeo.com/188237375"&gt;40423254-01-cadpb&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p&gt;網誌 Category&lt;/p&gt;
-&lt;p&gt;網誌 Tags&lt;/p&gt;
-&lt;p&gt;reveal.js 使用導引&lt;/p&gt;</summary><category term="使用導引"></category></entry></feed>
+&lt;pre&gt;git rm &lt;u&gt;檔案名稱&lt;/u&gt; -f&lt;/pre&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry></feed>
