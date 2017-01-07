@@ -2,7 +2,7 @@
 <html lang="en"
 >
 <head>
-    <title>Archives - 40423254 課程網誌 (虎尾科大MDE)</title>
+    <title>work4 - 40423254 課程網誌 (虎尾科大MDE)</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -166,15 +166,24 @@ init_mathjax = function() {
 init_mathjax();
 </script>
 
+<link rel="canonical" href="./work4.html">
 
         <meta name="author" content="40423254" />
+        <meta name="keywords" content="使用導引,創造力,表達能力,協同設計" />
+        <meta name="description" content="window.onload=function(){ brython(1); } from browser import document as doc from browser import html import math # 準備繪圖畫布 canvas = doc[&#34;fourbar&#34;] container1 = doc[&#39;container1&#39;] ctx = canvas.getContext(&#34;2d&#34;) fourbar_data = open(&#34;./../data/image3/fourbar.csv&#34;).read() fourbar_list = fourbar_data.splitlines() #container1" />
 
-    <!-- Open Graph tags -->
         <meta property="og:site_name" content="40423254 課程網誌 (虎尾科大MDE)" />
-        <meta property="og:type" content="website"/>
-        <meta property="og:title" content="40423254 課程網誌 (虎尾科大MDE)"/>
-        <meta property="og:url" content="."/>
-        <meta property="og:description" content="40423254 課程網誌 (虎尾科大MDE)"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="work4"/>
+        <meta property="og:url" content="./work4.html"/>
+        <meta property="og:description" content="window.onload=function(){ brython(1); } from browser import document as doc from browser import html import math # 準備繪圖畫布 canvas = doc[&#34;fourbar&#34;] container1 = doc[&#39;container1&#39;] ctx = canvas.getContext(&#34;2d&#34;) fourbar_data = open(&#34;./../data/image3/fourbar.csv&#34;).read() fourbar_list = fourbar_data.splitlines() #container1"/>
+        <meta property="article:published_time" content="2017-01-07" />
+            <meta property="article:section" content="Misc" />
+            <meta property="article:tag" content="使用導引" />
+            <meta property="article:tag" content="創造力" />
+            <meta property="article:tag" content="表達能力" />
+            <meta property="article:tag" content="協同設計" />
+            <meta property="article:author" content="40423254" />
 
 
     <!-- Bootstrap -->
@@ -255,7 +264,7 @@ init_mathjax();
                          <li><a href="./pages/about/">
                              About
                           </a></li>
-                        <li >
+                        <li class="active">
                             <a href="./category/misc.html">Misc</a>
                         </li>
             </ul>
@@ -278,30 +287,110 @@ init_mathjax();
         <div class="col-sm-9">
 
     <section id="content">
-        <h1>Archives for 40423254 課程網誌 (虎尾科大MDE)</h1>
-        <div id="archives">
-                <p>
-                    <span class="categories-timestamp"><time datetime="2017-01-07T12:20:00+08:00">週六 07 一月 2017</time></span>
-                    <a href="./work4.html">work4</a>
-                </p>
-                <p>
-                    <span class="categories-timestamp"><time datetime="2017-01-07T12:10:00+08:00">週六 07 一月 2017</time></span>
-                    <a href="./work3.html">work3</a>
-                </p>
-                <p>
-                    <span class="categories-timestamp"><time datetime="2017-01-07T12:00:00+08:00">週六 07 一月 2017</time></span>
-                    <a href="./work2.html">work2</a>
-                </p>
-                <p>
-                    <span class="categories-timestamp"><time datetime="2017-01-06T12:00:00+08:00">週五 06 一月 2017</time></span>
-                    <a href="./work1.html">work1</a>
-                </p>
-                <p>
-                    <span class="categories-timestamp"><time datetime="2016-09-16T12:00:00+08:00">週五 16 九月 2016</time></span>
-                    <a href="./2016fall-week1.html">2016Fall Week1</a>
-                </p>
-        </div>
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="./work4.html"
+                       rel="bookmark"
+                       title="Permalink to work4">
+                        work4
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2017-01-07T12:20:00+08:00"> 週六 07 一月 2017</time>
+    </span>
+            <span class="label label-default">By</span>
+            <a href="./author/40423254.html"><i class="fa fa-user"></i> 40423254</a>
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="./tag/shi-yong-dao-yin.html">使用導引</a>
+        /
+	<a href="./tag/chuang-zao-li.html">創造力</a>
+        /
+	<a href="./tag/biao-da-neng-li.html">表達能力</a>
+        /
+	<a href="./tag/xie-tong-she-ji.html">協同設計</a>
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <iframe src="https://player.vimeo.com/video/198477611" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="./../data/image3/4bar.jpg" width="800"  height="400"/></iframe>
+
+<!-- 啟動 Brython -->
+
+<script>
+window.onload=function(){
+brython(1);
+}
+</script>
+
+<!-- 以下實際利用  Brython 畫兩條直線 -->
+
+<canvas id="fourbar" width="600" height="400"></canvas>
+
+<div id="container1"></div>
+
+<script type="text/python3">
+from browser import document as doc
+from browser import html
+import math
+# 準備繪圖畫布
+canvas = doc["fourbar"]
+container1 = doc['container1']
+ctx = canvas.getContext("2d")
+
+fourbar_data = open("./../data/image3/fourbar.csv").read()
+fourbar_list = fourbar_data.splitlines()
+#container1 <= fourbar_list[0]
+# 以下可以利用 ctx 物件進行畫圖
+# 先畫一條直線
+ctx.beginPath()
+# 設定線的寬度為 1 個單位
+ctx.lineWidth = 1
+# 利用 transform 將 y 座標反轉, 且 offset canvas.height
+# (X scale, X skew, Y skew, Y scale, X offset, Y offset)
+# 配合圖形位置進行座標轉換
+ctx.transform(1, 0, 0, -1, canvas.width/2+250, canvas.height/2+100)
+# 畫出 x 與 y 座標線
+# 各座標值放大 8 倍
+ratio = 8
+'''
+ctx.moveTo(0, 0)
+ctx.lineTo(0, 100)
+ctx.moveTo(0, 0)
+ctx.lineTo(100, 0)
+'''
+ctx.moveTo(0, 0)
+ctx.lineTo(-30*ratio, 0)
+start_point = fourbar_list[0].split(",")
+ctx.moveTo(float(start_point[0])*ratio, float(start_point[1])*ratio)
+count = 0
+for data in fourbar_list[1:]:
+    point = data.split(",")
+    #count = count + 1
+    #container1 <= str(count) + ":" + point[0] + "," + point[1]
+    #container1 <= html.BR()
+    ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
+# 設定顏色為藍色, 也可以使用 "rgb(0, 0, 255)" 字串設定顏色值
+ctx.strokeStyle = "blue"
+# 實際執行畫線
+ctx.stroke()
+ctx.closePath()
+</script>
+            </div>
+            <!-- /.entry-content -->
+        </article>
     </section>
+
         </div>
         <div class="col-sm-3" id="sidebar">
             <aside>
