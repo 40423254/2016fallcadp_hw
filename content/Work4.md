@@ -4,10 +4,13 @@ Category: Misc
 Tags: 使用導引, 創造力, 表達能力, 協同設計
 Author: 40423254
 
+
+利用solvespace繪製一四連桿機構，並追蹤點取得路徑。
+
 <iframe src="https://player.vimeo.com/video/198477611" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
-<iframe src="./../data/image3/4bar.jpg" width="800"  height="400"/></iframe>
+<iframe src="./../data/image3/4bar.jpg" width="800"  height="800"/></iframe>
 
 
 <!-- 啟動 Brython -->
