@@ -2,7 +2,7 @@
 <html lang="en"
 >
 <head>
-    <title>work4 - 40423254 課程網誌 (虎尾科大MDE)</title>
+    <title>期末心得 - 40423254 課程網誌 (虎尾科大MDE)</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -166,18 +166,18 @@ init_mathjax = function() {
 init_mathjax();
 </script>
 
-<link rel="canonical" href="./work4.html">
+<link rel="canonical" href="./qi-mo-xin-de.html">
 
         <meta name="author" content="40423254" />
         <meta name="keywords" content="使用導引,創造力,表達能力,協同設計" />
-        <meta name="description" content="利用solvespace繪製一四連桿機構，並追蹤點取得路徑。 window.onload=function(){ brython(1); } from browser import document as doc from browser import html import math # 準備繪圖畫布 canvas = doc[&#34;fourbar&#34;] container1 = doc[&#39;container1&#39;] ctx = canvas.getContext(&#34;2d&#34;) fourbar_data = open(&#34;./../data/image3/fourbar.csv&#34;).read() fourbar_list = fourbar_data.splitlines() #container1" />
+        <meta name="description" content="這學期沿用了以前所教過的github系統倉儲，藉由commit、proxy、config等指令設置環境。 本學期教了可攜式的solvespace、雲端的onshape兩個繪圖軟體。前者可以繪製簡單的2D機構模擬及3D的零件組立。後者可以利用瀏覽器開啟、免安裝式的運作，還有支援手機APP，最後儲存在雲端上。 以上是我這學期學到的" />
 
         <meta property="og:site_name" content="40423254 課程網誌 (虎尾科大MDE)" />
         <meta property="og:type" content="article"/>
-        <meta property="og:title" content="work4"/>
-        <meta property="og:url" content="./work4.html"/>
-        <meta property="og:description" content="利用solvespace繪製一四連桿機構，並追蹤點取得路徑。 window.onload=function(){ brython(1); } from browser import document as doc from browser import html import math # 準備繪圖畫布 canvas = doc[&#34;fourbar&#34;] container1 = doc[&#39;container1&#39;] ctx = canvas.getContext(&#34;2d&#34;) fourbar_data = open(&#34;./../data/image3/fourbar.csv&#34;).read() fourbar_list = fourbar_data.splitlines() #container1"/>
-        <meta property="article:published_time" content="2017-01-07" />
+        <meta property="og:title" content="期末心得"/>
+        <meta property="og:url" content="./qi-mo-xin-de.html"/>
+        <meta property="og:description" content="這學期沿用了以前所教過的github系統倉儲，藉由commit、proxy、config等指令設置環境。 本學期教了可攜式的solvespace、雲端的onshape兩個繪圖軟體。前者可以繪製簡單的2D機構模擬及3D的零件組立。後者可以利用瀏覽器開啟、免安裝式的運作，還有支援手機APP，最後儲存在雲端上。 以上是我這學期學到的"/>
+        <meta property="article:published_time" content="2017-01-13" />
             <meta property="article:section" content="Misc" />
             <meta property="article:tag" content="使用導引" />
             <meta property="article:tag" content="創造力" />
@@ -290,10 +290,10 @@ init_mathjax();
         <article>
             <header class="page-header">
                 <h1>
-                    <a href="./work4.html"
+                    <a href="./qi-mo-xin-de.html"
                        rel="bookmark"
-                       title="Permalink to work4">
-                        work4
+                       title="Permalink to 期末心得">
+                        期末心得
                     </a>
                 </h1>
             </header>
@@ -303,7 +303,7 @@ init_mathjax();
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2017-01-07T12:20:00+08:00"> 週六 07 一月 2017</time>
+        <i class="fa fa-calendar"></i><time datetime="2017-01-13T11:00:00+08:00"> 週五 13 一月 2017</time>
     </span>
             <span class="label label-default">By</span>
             <a href="./author/40423254.html"><i class="fa fa-user"></i> 40423254</a>
@@ -321,72 +321,9 @@ init_mathjax();
     
 </footer><!-- /.post-info -->                    </div>
                 </div>
-                <p>利用solvespace繪製一四連桿機構，並追蹤點取得路徑。</p>
-<iframe src="https://player.vimeo.com/video/198477611" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<iframe src="./../data/image3/4bar.jpg" width="800"  height="800"/></iframe>
-
-<!-- 啟動 Brython -->
-
-<script>
-window.onload=function(){
-brython(1);
-}
-</script>
-
-<!-- 以下實際利用  Brython 畫兩條直線 -->
-
-<canvas id="fourbar" width="600" height="400"></canvas>
-
-<div id="container1"></div>
-
-<script type="text/python3">
-from browser import document as doc
-from browser import html
-import math
-# 準備繪圖畫布
-canvas = doc["fourbar"]
-container1 = doc['container1']
-ctx = canvas.getContext("2d")
-
-fourbar_data = open("./../data/image3/fourbar.csv").read()
-fourbar_list = fourbar_data.splitlines()
-#container1 <= fourbar_list[0]
-# 以下可以利用 ctx 物件進行畫圖
-# 先畫一條直線
-ctx.beginPath()
-# 設定線的寬度為 1 個單位
-ctx.lineWidth = 1
-# 利用 transform 將 y 座標反轉, 且 offset canvas.height
-# (X scale, X skew, Y skew, Y scale, X offset, Y offset)
-# 配合圖形位置進行座標轉換
-ctx.transform(1, 0, 0, -1, canvas.width/2+250, canvas.height/2+100)
-# 畫出 x 與 y 座標線
-# 各座標值放大 8 倍
-ratio = 8
-'''
-ctx.moveTo(0, 0)
-ctx.lineTo(0, 100)
-ctx.moveTo(0, 0)
-ctx.lineTo(100, 0)
-'''
-ctx.moveTo(0, 0)
-ctx.lineTo(-30*ratio, 0)
-start_point = fourbar_list[0].split(",")
-ctx.moveTo(float(start_point[0])*ratio, float(start_point[1])*ratio)
-count = 0
-for data in fourbar_list[1:]:
-    point = data.split(",")
-    #count = count + 1
-    #container1 <= str(count) + ":" + point[0] + "," + point[1]
-    #container1 <= html.BR()
-    ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
-# 設定顏色為藍色, 也可以使用 "rgb(0, 0, 255)" 字串設定顏色值
-ctx.strokeStyle = "blue"
-# 實際執行畫線
-ctx.stroke()
-ctx.closePath()
-</script>
+                <p>這學期沿用了以前所教過的github系統倉儲，藉由commit、proxy、config等指令設置環境。
+本學期教了可攜式的solvespace、雲端的onshape兩個繪圖軟體。前者可以繪製簡單的2D機構模擬及3D的零件組立。後者可以利用瀏覽器開啟、免安裝式的運作，還有支援手機APP，最後儲存在雲端上。</p>
+<p>以上是我這學期學到的</p>
             </div>
             <!-- /.entry-content -->
         </article>
