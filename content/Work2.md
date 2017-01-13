@@ -10,3 +10,4 @@ Author: 40423254
 <iframe src="https://player.vimeo.com/video/198473091" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
+心得 : 這次是將solvespace所畫出來的零件，存檔時轉成html，並且可以利用iframe指令導入在網誌上。

@@ -74,3 +74,5 @@ ctx.strokeStyle = "blue"
 ctx.stroke()
 ctx.closePath()
 </script>
+
+心得 : 繪製一個簡單的四連桿機構，並且追蹤點，在放到excel上繪出圖形。

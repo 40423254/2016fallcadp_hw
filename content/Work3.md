@@ -8,3 +8,5 @@ Author: 40423254
 模擬3D印表機之運動軌跡
 
 <iframe src="./../data/image2/delta_printer.html" width="800"  height="800"/></iframe>
+
+心得 : 模擬運動軌跡

@@ -23,3 +23,4 @@ bar.html
 resemble.html
 <iframe src="./../data/image/resemble.html" width="800"  height="800"/></iframe>
 
+心得 : 這次使用了solvespace繪製單一零件，最後組立起來。

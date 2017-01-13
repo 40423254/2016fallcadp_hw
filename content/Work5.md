@@ -11,3 +11,6 @@ Author: 40423254
 
 
 <iframe src="./../data/image5/work5-onshape.jpg" width="800"  height="800"/></iframe>
+
+
+心得 : 間單的利用onshape繪製一些圖形。
