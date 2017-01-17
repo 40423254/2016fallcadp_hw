@@ -1,12 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423254 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2017-01-13T11:00:00+08:00</updated><entry><title>期末心得</title><link href="./qi-mo-xin-de.html" rel="alternate"></link><published>2017-01-13T11:00:00+08:00</published><updated>2017-01-13T11:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2017-01-13:./qi-mo-xin-de.html</id><summary type="html">&lt;p&gt;這學期沿用了以前所教過的github系統倉儲，藉由commit、proxy、config等指令設置環境。
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423254 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2017-01-17T12:20:00+08:00</updated><entry><title>work6</title><link href="./work6.html" rel="alternate"></link><updated>2017-01-17T12:20:00+08:00</updated><author><name>40423254</name></author><id>tag:,2017-01-17:./work6.html</id><summary type="html">&lt;p&gt;利用onshape繪製零件，並且組立。&lt;/p&gt;
+&lt;p&gt;零件1
+&lt;iframe src="https://player.vimeo.com/video/199266442" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;零件2
+&lt;iframe src="https://player.vimeo.com/video/199267172" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;零件3
+&lt;iframe src="https://player.vimeo.com/video/199267828" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;零件4
+&lt;iframe src="https://player.vimeo.com/video/199268683" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;零件5
+&lt;iframe src="https://player.vimeo.com/video/199268973" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;零件6
+&lt;iframe src="https://player.vimeo.com/video/199269219" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;零件7
+&lt;iframe src="https://player.vimeo.com/video/199269400" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;零件8
+&lt;iframe src="https://player.vimeo.com/video/199269759" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>期末心得</title><link href="./qi-mo-xin-de.html" rel="alternate"></link><updated>2017-01-13T11:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2017-01-13:./qi-mo-xin-de.html</id><summary type="html">&lt;p&gt;這學期沿用了以前所教過的github系統倉儲，藉由commit、proxy、config等指令設置環境。
 本學期教了可攜式的solvespace、雲端的onshape兩個繪圖軟體。前者可以繪製簡單的2D機構模擬及3D的零件組立。後者可以利用瀏覽器開啟、免安裝式的運作，還有支援手機APP，最後儲存在雲端上。&lt;/p&gt;
-&lt;p&gt;以上是我這學期學到的&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>work5</title><link href="./work5.html" rel="alternate"></link><published>2017-01-09T12:20:00+08:00</published><updated>2017-01-09T12:20:00+08:00</updated><author><name>40423254</name></author><id>tag:,2017-01-09:./work5.html</id><summary type="html">&lt;p&gt;利用雲端繪圖程式onshape繪製簡單的零件。大部分功能都和solidwork差不多。&lt;/p&gt;
+&lt;p&gt;以上是我這學期學到的&lt;/p&gt;
+&lt;p&gt;以下為本學期所作之作業影片連結。&lt;/p&gt;
+&lt;p&gt;Work1-block影片補拍:
+&lt;iframe src="https://player.vimeo.com/video/198347916" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Work1-bar影片補拍:
+&lt;iframe src="https://player.vimeo.com/video/198347961" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Work1-resemble影片補拍:
+&lt;iframe src="https://player.vimeo.com/video/198347971" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Work2-html轉換
+&lt;iframe src="https://player.vimeo.com/video/198473091" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Work4-四連桿
+&lt;iframe src="https://player.vimeo.com/video/198477611" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Work5-onshape初次使用
+&lt;iframe src="https://player.vimeo.com/video/198680605" width="640" height="362" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Work6-零件1
+&lt;iframe src="https://player.vimeo.com/video/199266442" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Work6-零件2
+&lt;iframe src="https://player.vimeo.com/video/199267172" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Work6-零件3
+&lt;iframe src="https://player.vimeo.com/video/199267828" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Work6-零件4
+&lt;iframe src="https://player.vimeo.com/video/199268683" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Work6-零件5
+&lt;iframe src="https://player.vimeo.com/video/199268973" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Work6-零件6
+&lt;iframe src="https://player.vimeo.com/video/199269219" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Work6-零件7
+&lt;iframe src="https://player.vimeo.com/video/199269400" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Work6-零件8
+&lt;iframe src="https://player.vimeo.com/video/199269759" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>work5</title><link href="./work5.html" rel="alternate"></link><updated>2017-01-09T12:20:00+08:00</updated><author><name>40423254</name></author><id>tag:,2017-01-09:./work5.html</id><summary type="html">&lt;p&gt;利用雲端繪圖程式onshape繪製簡單的零件。大部分功能都和solidwork差不多。&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/198680605" width="640" height="362" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;iframe src="./../data/image5/work5-onshape.jpg" width="800"  height="800"/&gt;&lt;/iframe&gt;
 
-&lt;p&gt;心得 : 間單的利用onshape繪製一些圖形。&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>work4</title><link href="./work4.html" rel="alternate"></link><published>2017-01-07T12:20:00+08:00</published><updated>2017-01-07T12:20:00+08:00</updated><author><name>40423254</name></author><id>tag:,2017-01-07:./work4.html</id><summary type="html">&lt;p&gt;利用solvespace繪製一四連桿機構，並追蹤點取得路徑。&lt;/p&gt;
+&lt;p&gt;心得 : 簡單的利用onshape繪製一些圖形。&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>work4</title><link href="./work4.html" rel="alternate"></link><updated>2017-01-07T12:20:00+08:00</updated><author><name>40423254</name></author><id>tag:,2017-01-07:./work4.html</id><summary type="html">&lt;p&gt;利用solvespace繪製一四連桿機構，並追蹤點取得路徑。&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/198477611" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;iframe src="./../data/image3/4bar.jpg" width="800"  height="800"/&gt;&lt;/iframe&gt;
@@ -73,13 +118,13 @@ ctx.stroke()
 ctx.closePath()
 &lt;/script&gt;
 
-&lt;p&gt;心得 : 繪製一個簡單的四連桿機構，並且追蹤點，在放到excel上繪出圖形。&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>work3</title><link href="./work3.html" rel="alternate"></link><published>2017-01-07T12:10:00+08:00</published><updated>2017-01-07T12:10:00+08:00</updated><author><name>40423254</name></author><id>tag:,2017-01-07:./work3.html</id><summary type="html">&lt;p&gt;模擬3D印表機之運動軌跡&lt;/p&gt;
+&lt;p&gt;心得 : 繪製一個簡單的四連桿機構，並且追蹤點，在放到excel上繪出圖形。&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>work3</title><link href="./work3.html" rel="alternate"></link><updated>2017-01-07T12:10:00+08:00</updated><author><name>40423254</name></author><id>tag:,2017-01-07:./work3.html</id><summary type="html">&lt;p&gt;模擬3D印表機之運動軌跡&lt;/p&gt;
 &lt;iframe src="./../data/image2/delta_printer.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
 
-&lt;p&gt;心得 : 模擬運動軌跡&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>work2</title><link href="./work2.html" rel="alternate"></link><published>2017-01-07T12:00:00+08:00</published><updated>2017-01-07T12:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2017-01-07:./work2.html</id><summary type="html">&lt;p&gt;將solvespace畫出來的零件圖及組立圖轉成html，並且將slv檔裡的原始碼從http改為https。再將html檔(組立圖)裡的絕對目錄改為相對目錄。最後用iframe導入圖片。&lt;/p&gt;
+&lt;p&gt;心得 : 模擬運動軌跡&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>work2</title><link href="./work2.html" rel="alternate"></link><updated>2017-01-07T12:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2017-01-07:./work2.html</id><summary type="html">&lt;p&gt;將solvespace畫出來的零件圖及組立圖轉成html，並且將slv檔裡的原始碼從http改為https。再將html檔(組立圖)裡的絕對目錄改為相對目錄。最後用iframe導入圖片。&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/198473091" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;心得 : 這次是將solvespace所畫出來的零件，存檔時轉成html，並且可以利用iframe指令導入在網誌上。&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>work1</title><link href="./work1.html" rel="alternate"></link><published>2017-01-06T12:00:00+08:00</published><updated>2017-01-06T12:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2017-01-06:./work1.html</id><summary type="html">&lt;p&gt;零件組立圖&lt;/p&gt;
+&lt;p&gt;心得 : 這次是將solvespace所畫出來的零件，存檔時轉成html，並且可以利用iframe指令導入在網誌上。&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>work1</title><link href="./work1.html" rel="alternate"></link><updated>2017-01-06T12:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2017-01-06:./work1.html</id><summary type="html">&lt;p&gt;零件組立圖&lt;/p&gt;
 &lt;p&gt;block影片補拍:
 &lt;iframe src="https://player.vimeo.com/video/198347916" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;bar影片補拍:
@@ -92,7 +137,7 @@ bar.html
 &lt;iframe src="./../data/image/block.html" width="800"  height="800"/&gt;&lt;/iframe&gt;
 resemble.html
 &lt;iframe src="./../data/image/resemble.html" width="800"  height="800"/&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;心得 : 這次使用了solvespace繪製單一零件，最後組立起來。&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>2016Fall Week1</title><link href="./2016fall-week1.html" rel="alternate"></link><published>2016-09-16T12:00:00+08:00</published><updated>2016-09-16T12:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2016-09-16:./2016fall-week1.html</id><summary type="html">&lt;h2&gt;中秋連假&lt;/h2&gt;
+&lt;p&gt;心得 : 這次使用了solvespace繪製單一零件，最後組立起來。&lt;/p&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry><entry><title>2016Fall Week1</title><link href="./2016fall-week1.html" rel="alternate"></link><updated>2016-09-16T12:00:00+08:00</updated><author><name>40423254</name></author><id>tag:,2016-09-16:./2016fall-week1.html</id><summary type="html">&lt;h2&gt;中秋連假&lt;/h2&gt;
 
 &lt;p&gt;切換到2016fallcadp_hw的分支&lt;/p&gt;
 
